@@ -1,4 +1,4 @@
-# AngularTallerPractico
+# Angular Taller Practico https://www.youtube.com/watch?v=TFmZqiTeeCU&list=PLbP-b3gf8hAXuiA5sYcXsAUFXNynWXXwt&index=3
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.7.
 
